@@ -1,7 +1,7 @@
 // Server.js file for nodejs/socketio/express 
 // simple chat server
 
-var appPort = 3000;
+var appPort = 16000;
 
 var express = require('express');
 var app = express();
